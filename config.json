@@ -33,7 +33,25 @@
     "getUUID",
     "setUUID",
     "getFilterExpression",
-    "setFilterExpression"
+    "setFilterExpression",
+    "getChannelsData",
+    "setChannelData",
+    "messageCounts",
+    "generateUUID",
+    "setUserData",
+    "getUserData",
+    "addUserToChannel",
+    "listUsersInChannel",
+    "listChannelsForUser",
+    "setDeviceData",
+    "getDeviceData",
+    "addDeviceToChannel",
+    "listDevicesInChannel",
+    "listChannelsForDevice",
+    "addDeviceToUser",
+    "removeDeviceFromUser",
+    "listDevicesForUser"
+
   ],
   "common_callbacks_to_wrap": [
     "callback",

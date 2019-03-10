@@ -1,4 +1,4 @@
-import PubNub from 'pubnub';
+import PubNub from 'pubnub'
 import update from 'immutability-helper';
 import wrap from './wrapper';
 import Autoload from './autoload';
