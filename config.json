@@ -36,6 +36,7 @@
     "setFilterExpression",
     "getChannelsData",
     "setChannelData",
+    "getChannelData",
     "messageCounts",
     "generateUUID",
     "setUserData",
