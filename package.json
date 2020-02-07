@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/pubnub/react.git"
+    "url": "git://github.com/jpollock/react.git"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -33,7 +33,7 @@
   "license": "MIT",
   "peerDependencies": {
     "@types/pubnub": "^4.0.6",
-    "pubnub": "^4.25.1"
+    "pubnub": "github:jpollock/javascript#herenow_search"
   },
   "husky": {
     "hooks": {
@@ -55,7 +55,7 @@
     "husky": "^3.0.2",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1",
-    "pubnub": "^4.25.1",
+    "pubnub": "github:jpollock/javascript#herenow_search",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "tsdx": "^0.9.0",
